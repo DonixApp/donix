@@ -1,42 +1,45 @@
-# **Donix - Blood Donation Made Easy**  
+# Donix - Blood Donation App
 
-## **About Donix**  
-Donix is a public blood donation app designed to promote a culture of voluntary blood donation, making it easier for people in **Kano, Nigeria** (and beyond) to find and connect with blood donors when needed.  
+Donix is a mobile application designed to connect blood donors with recipients in a fast and efficient manner. It aims to streamline the blood donation process and increase the availability of blood for those in need.
 
-With Donix, users can:  
-✔️ **Broadcast blood donation requests**  
-✔️ **Find nearby donors**  
-✔️ **Respond to donation requests**  
-✔️ **Chat with patients/donors in real time**  
-✔️ **Track upcoming appointments**  
-✔️ **View a leaderboard for top donors (future feature)**  
+## Features
 
-## **Key Features**  
-🔴 **Recent Requests** – View and respond to blood donation requests.  
-🩸 **Find Donors** – Locate nearby voluntary donors quickly.  
-📢 **Live Notifications** – Stay updated on new requests and responses.  
-💬 **In-App Chat** – Connect with donors/patients after accepting a request.  
-📆 **Appointments** – Manage and track upcoming donation schedules.  
-🏆 **Leaderboard (Future Feature)** – Gamify blood donation to encourage more participation.  
+- User-friendly interface for donors and recipients
+- Search for blood donors based on blood type and location
+- Request blood donations with detailed information
+- Secure user authentication and profile management
+- Reward system for frequent donors
+- Informative articles and resources about blood donation
 
-## **Getting Started**  
-1️⃣ **Download & Install** – Get Donix from the app store (coming soon).  
-2️⃣ **Create an Account** – Sign up as a donor, recipient, or hospital.  
-3️⃣ **Find or Donate Blood** – Request or respond to donations easily.  
-4️⃣ **Stay Engaged** – Get real-time updates and track your donations.  
+## Technology Stack
 
-## **Why Donix?**  
-💖 **Save Lives:** A simple blood donation can make a huge difference.  
-📲 **Easy to Use:** Intuitive and user-friendly design.  
-🔄 **Real-Time Updates:** Stay informed about urgent requests.  
-🛡 **Secure & Reliable:** Built with security and trust in mind.  
+- **Frontend**: Flutter/Dart
+- **State Management**: Riverpod
+- **Navigation**: GoRouter
+- **Localization**: Flutter Intl
+- **UI Components**: Custom Material Design components
+- **Backend**: In development (not yet implemented)
 
-## **Join the Movement!**  
-Be a part of the life-saving network! Donate blood, help those in need, and make a lasting impact.  
+## Roadmap
 
-🚀 **Follow Our Updates:**  
-🌐 [Website - Coming Soon]  
-📧 Contact us: support@donixapp.com  
-📍 Location: Kano, Nigeria  
+- [ ] Backend development and integration
+- [ ] Push notifications for blood requests
+- [ ] Real-time chat between donors and recipients
+- [ ] Blood donation appointment scheduling with centers
+- [ ] QR code generation for reward redemption
+- [ ] Blood donation drive organization tools
+- [ ] Integration with hospital systems
+- [ ] Expanded partner network for rewards
 
-**#Donix #BloodDonation #SaveLives #GiveBlood**
+## Contributing
+
+We welcome contributions to Donix! If you're interested in helping us build this app, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+Project Link: [https://github.com/DonixApp/donix](https://github.com/DonixApp/donix)
+
